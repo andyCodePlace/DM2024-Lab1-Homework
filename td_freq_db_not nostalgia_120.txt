@@ -1,0 +1,30 @@
+was:121
+for:122
+music:123
+love:131
+you:156
+my:162
+that:171
+it:195
+in:204
+in	the:149
+is:216
+is	this:126
+is	the:130
+song:251
+song	the:124
+song	this:186
+of:260
+of	and:121
+of	this:124
+of	the:183
+to:277
+to	this:140
+to	and:142
+to	the:159
+and:311
+and	this:155
+and	the:179
+this:354
+this	the:184
+the:405

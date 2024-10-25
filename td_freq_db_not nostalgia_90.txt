@@ -1,0 +1,50 @@
+with:96
+like:98
+but:101
+have:104
+one:104
+so:116
+was:121
+for:122
+music:123
+love:131
+you:156
+my:162
+my	this:92
+that:171
+that	the:109
+it:195
+it	and:94
+it	to:95
+it	the:108
+it	this:108
+in:204
+in	and:97
+in	this:107
+in	the:149
+is:216
+is	and:110
+is	this:126
+is	the:130
+song:251
+song	to:92
+song	and:106
+song	the:124
+song	the	this:94
+song	this:186
+of:260
+of	to:103
+of	and:121
+of	and	the:92
+of	this:124
+of	the:183
+to:277
+to	this:140
+to	and:142
+to	the:159
+and:311
+and	this:155
+and	the:179
+this:354
+this	the:184
+the:405

@@ -1,0 +1,92 @@
+remember:121
+love:124
+for:125
+on:128
+years:136
+so:149
+when:206
+when	to:121
+when	the:125
+when	song:133
+when	this:151
+when	this	was:121
+when	was:159
+it:212
+it	was:125
+it	song:126
+it	to:127
+it	the:131
+it	this:148
+memories:227
+in:248
+in	was:136
+in	song:138
+in	and:138
+in	to:148
+in	my:161
+in	this:166
+in	this	the:124
+in	the:184
+back:249
+back	the:123
+back	my:124
+back	to:125
+back	this:134
+me:258
+me	the:130
+me	song:134
+me	of:135
+me	to:153
+me	this:166
+me	my:168
+of:278
+of	song:139
+of	and:139
+of	to:148
+of	this:162
+of	the:169
+of	my:188
+was:290
+was	and:153
+was	to:160
+was	song:168
+was	song	this:149
+was	my:171
+was	my	this:129
+was	the:171
+was	the	this:122
+was	this:201
+and:309
+and	song:169
+and	song	this:136
+and	my:179
+and	my	this:120
+and	my	to:125
+and	to:187
+and	to	this:122
+and	to	the:128
+and	this:189
+and	the:192
+song:353
+song	the:179
+song	the	this:143
+song	to:182
+song	to	my:127
+song	to	this:156
+song	my:212
+song	my	this:180
+song	this:283
+to:358
+to	the:208
+to	the	my:128
+to	the	this:134
+to	my:227
+to	my	this:154
+to	this:230
+the:369
+the	my:192
+the	my	this:123
+the	this:212
+my:400
+my	this:252
+this:412

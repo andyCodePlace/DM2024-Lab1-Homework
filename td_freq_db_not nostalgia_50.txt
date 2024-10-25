@@ -1,0 +1,194 @@
+good:50
+now:51
+always:51
+his:52
+know:52
+never:53
+no:54
+at:55
+are:57
+she:59
+from:60
+they:61
+as:61
+her:63
+will:64
+when:68
+songs:71
+time:72
+just:77
+he:78
+beautiful:78
+voice:79
+be:79
+be	the:55
+what:82
+me:83
+on:84
+on	the:56
+can:85
+can	the:53
+great:85
+great	the:56
+all:87
+all	to:51
+all	the:60
+not:87
+with:96
+with	this:51
+with	the:65
+like:98
+like	this:60
+but:101
+but	and:52
+but	this:57
+but	the:67
+have:104
+have	this:59
+have	the:66
+one:104
+one	and:51
+one	the:74
+one	of:74
+one	of	the:56
+so:116
+so	song:51
+so	this:60
+so	and:63
+so	the:63
+was:121
+was	and:58
+was	this:60
+was	the:73
+for:122
+for	to:51
+for	of:53
+for	and:59
+for	this:62
+for	the:83
+music:123
+music	of:51
+music	this:63
+music	and:65
+music	the:73
+love:131
+love	of:50
+love	it:53
+love	to:56
+love	and:64
+love	song:65
+love	the:67
+love	this:72
+you:156
+you	song:50
+you	is:50
+you	of:55
+you	to:67
+you	and:73
+you	this:76
+you	the:81
+my:162
+my	in:54
+my	of:60
+my	song:60
+my	song	this:51
+my	to:66
+my	and:80
+my	and	the:50
+my	the:80
+my	this:92
+that:171
+that	song:54
+that	it:55
+that	of:61
+that	in:63
+that	in	the:52
+that	is:72
+that	is	the:50
+that	this:77
+that	this	the:55
+that	and:82
+that	and	the:55
+that	to:82
+that	to	the:56
+that	the:109
+it:195
+it	in:64
+it	of:68
+it	is:72
+it	song:86
+it	song	this:67
+it	and:94
+it	and	to:54
+it	and	the:55
+it	and	this:57
+it	to:95
+it	to	this:57
+it	to	the:59
+it	the:108
+it	this:108
+it	this	the:54
+in:204
+in	song:65
+in	song	this:53
+in	is:69
+in	is	the:53
+in	to:82
+in	to	the:63
+in	of:83
+in	of	the:74
+in	and:97
+in	and	the:73
+in	this:107
+in	this	the:74
+in	the:149
+is:216
+is	song:76
+is	song	this:59
+is	of:78
+is	of	the:62
+is	to:81
+is	to	and:50
+is	to	the:53
+is	and:110
+is	and	this:61
+is	and	the:65
+is	this:126
+is	this	the:74
+is	the:130
+song:251
+song	of:89
+song	of	the:60
+song	of	this:68
+song	to:92
+song	to	this:75
+song	and:106
+song	and	the:52
+song	and	this:78
+song	the:124
+song	the	this:94
+song	this:186
+of:260
+of	to:103
+of	to	and:59
+of	to	the:79
+of	and:121
+of	and	this:58
+of	and	the:92
+of	this:124
+of	this	the:80
+of	the:183
+to:277
+to	this:140
+to	this	the:76
+to	this	and:78
+to	and:142
+to	and	the:87
+to	the:159
+and:311
+and	this:155
+and	this	the:87
+and	the:179
+this:354
+this	the:184
+the:405

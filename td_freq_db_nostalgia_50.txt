@@ -1,0 +1,852 @@
+like:50
+dad:50
+he:50
+up:51
+loved:52
+much:55
+listening:58
+listening	to:52
+had:59
+many:61
+first:61
+always:62
+songs:62
+still:64
+have:64
+just:64
+at:68
+at	the:51
+as:68
+from:70
+good:70
+all:70
+reminds:74
+reminds	this:50
+reminds	this	me:50
+reminds	my:56
+me	reminds	my:56
+of	reminds	my:56
+me	of	reminds	my:56
+reminds	of:68
+me	reminds	of:68
+reminds	me:74
+now:74
+now	was:52
+we:74
+we	the:54
+miss:74
+beautiful:75
+beautiful	song:50
+childhood:75
+childhood	my:62
+but:78
+but	the:50
+but	my:51
+days:78
+music:89
+music	this:51
+music	the:56
+you:89
+you	this:53
+great:93
+great	the:56
+is:97
+is	and:50
+is	to:52
+is	song:57
+is	the:58
+is	my:61
+is	this:68
+brings:103
+brings	song:50
+brings	my:51
+brings	this:53
+brings	this	back:50
+brings	memories:83
+brings	memories	back:74
+brings	back:91
+with:107
+with	song:51
+with	of:51
+with	was:55
+with	and:60
+with	in:60
+with	to:65
+with	my:70
+with	my	the:50
+with	this:71
+with	the:71
+old:108
+old	my:54
+old	and:54
+old	song:55
+old	years:55
+old	to:60
+old	this:65
+old	was:65
+old	the:68
+that:113
+that	of:51
+that	in:52
+that	it:52
+that	my:63
+that	this:66
+that	this	song:52
+that	and:66
+that	and	the:54
+that	song:67
+that	was:67
+that	to:72
+that	to	the:53
+that	the:76
+time:113
+time	and:53
+time	in:53
+time	song:58
+time	song	this:50
+time	my:59
+time	was:61
+time	was	the:50
+time	to:68
+time	to	the:50
+time	this:73
+time	this	the:51
+time	the:79
+remember:121
+remember	in:50
+remember	it:51
+remember	when:51
+remember	and:64
+remember	my:67
+remember	to:68
+remember	to	this:50
+remember	song:72
+remember	song	this:61
+remember	the:73
+remember	the	this:52
+remember	was:73
+remember	was	this:51
+remember	this:82
+love:124
+love	it:50
+love	was:52
+love	me:55
+love	of:60
+love	and:63
+love	to:67
+love	song:70
+love	song	this:56
+love	the:73
+love	my:77
+love	my	this:53
+love	this:80
+for:125
+for	of:54
+for	in:59
+for	and:63
+for	song:65
+for	song	this:54
+for	was:67
+for	was	the:51
+for	to:67
+for	my:70
+for	my	this:50
+for	this:80
+for	this	the:56
+for	the:82
+on:128
+on	it:51
+on	when:52
+on	of:57
+on	song:64
+on	song	this:56
+on	in:72
+on	in	my:50
+on	in	and:51
+on	in	this:52
+on	in	the:64
+on	to:74
+on	to	my:51
+on	to	this:53
+on	to	the:59
+on	was:75
+on	was	the:58
+on	and:77
+on	and	this:53
+on	and	my:54
+on	and	the:61
+on	my:84
+on	my	this:58
+on	my	the:65
+on	this:86
+on	this	the:62
+on	the:94
+years:136
+years	back:51
+years	me:54
+years	of:57
+years	in:61
+years	it:61
+years	it	this:53
+years	song:74
+years	song	this:69
+years	and:75
+years	and	was:50
+years	and	to:50
+years	and	my:51
+years	and	this:54
+years	and	the:55
+years	the:77
+years	the	my:50
+years	the	was:53
+years	the	this:58
+years	to:77
+years	to	the:50
+years	to	my:54
+years	to	this:60
+years	was:78
+years	was	this:58
+years	my:86
+years	my	this:59
+years	this:92
+so:149
+so	when:50
+so	back:51
+so	me:51
+so	it:56
+so	in:56
+so	memories:57
+so	of:58
+so	was:72
+so	was	this:51
+so	was	to:51
+so	song:77
+so	song	to:52
+so	song	this:67
+so	and:77
+so	and	to:52
+so	the:77
+so	the	to:53
+so	my:78
+so	my	this:59
+so	my	to:59
+so	to:94
+so	to	this:63
+so	this:98
+when:206
+when	back:55
+when	me:76
+when	me	the:51
+when	me	was:51
+when	me	this:59
+when	it:82
+when	it	to:53
+when	it	the:56
+when	it	song:58
+when	it	song	was:51
+when	it	song	this:55
+when	it	this:67
+when	it	this	was:59
+when	it	was:70
+when	of:85
+when	of	and:50
+when	of	song:52
+when	of	my:56
+when	of	to:59
+when	of	the:62
+when	of	was:64
+when	of	this:64
+when	of	this	was:50
+when	in:88
+when	in	my:55
+when	in	to:59
+when	in	to	the:54
+when	in	and:59
+when	in	and	the:50
+when	in	and	was:50
+when	in	song:62
+when	in	song	the:53
+when	in	song	this:55
+when	in	this:69
+when	in	this	the:58
+when	in	this	was:59
+when	in	was:70
+when	in	was	the:58
+when	in	the:74
+when	and:108
+when	and	my:69
+when	and	my	this:51
+when	and	my	was:56
+when	and	my	to:56
+when	and	song:72
+when	and	song	to:50
+when	and	song	the:52
+when	and	song	was:61
+when	and	song	was	this:58
+when	and	song	this:63
+when	and	the:77
+when	and	the	this:56
+when	and	the	was:60
+when	and	the	to:61
+when	and	to:79
+when	and	to	this:58
+when	and	to	this	was:50
+when	and	to	was:63
+when	and	this:80
+when	and	this	was:71
+when	and	was:88
+when	my:114
+when	my	the:70
+when	my	the	this:52
+when	my	the	was:52
+when	my	the	to:56
+when	my	song:73
+when	my	song	to:53
+when	my	song	was:58
+when	my	song	was	this:56
+when	my	song	this:66
+when	my	to:82
+when	my	to	this:62
+when	my	to	was:62
+when	my	to	was	this:50
+when	my	was:86
+when	my	was	this:70
+when	my	this:87
+when	to:121
+when	to	song:77
+when	to	song	the:52
+when	to	song	was:61
+when	to	song	was	this:58
+when	to	song	this:70
+when	to	the:83
+when	to	the	this:60
+when	to	the	was:63
+when	to	this:91
+when	to	this	was:73
+when	to	was:93
+when	the:125
+when	the	song:81
+when	the	song	was:62
+when	the	song	was	this:57
+when	the	song	this:70
+when	the	this:92
+when	the	this	was:73
+when	the	was:94
+when	song:133
+when	song	was:105
+when	song	was	this:96
+when	song	this:117
+when	this:151
+when	this	was:121
+when	was:159
+it:212
+it	memories:59
+it	back:71
+it	back	this:54
+it	in:83
+it	in	song:52
+it	in	song	this:50
+it	in	and:54
+it	in	my:56
+it	in	to:59
+it	in	to	the:51
+it	in	was:64
+it	in	was	this:54
+it	in	was	the:55
+it	in	this:66
+it	in	this	the:54
+it	in	the:70
+it	me:88
+it	me	song:53
+it	me	the:55
+it	me	my:57
+it	me	to:59
+it	me	to	this:51
+it	me	this:68
+it	of:93
+it	of	and:53
+it	of	was:54
+it	of	my:59
+it	of	song:59
+it	of	song	this:54
+it	of	to:61
+it	of	to	this:50
+it	of	the:66
+it	of	the	this:51
+it	of	this:72
+it	and:113
+it	and	my:68
+it	and	my	to:51
+it	and	my	song:51
+it	and	my	this:56
+it	and	to:71
+it	and	to	the:51
+it	and	to	was:52
+it	and	to	this:56
+it	and	song:72
+it	and	song	the:50
+it	and	song	was:55
+it	and	song	was	this:51
+it	and	song	this:67
+it	and	was:77
+it	and	was	the:59
+it	and	was	this:64
+it	and	the:80
+it	and	the	this:60
+it	and	this:86
+it	my:114
+it	my	was:71
+it	my	was	song:51
+it	my	was	to:53
+it	my	was	the:54
+it	my	was	this:61
+it	my	song:73
+it	my	song	to:51
+it	my	song	the:53
+it	my	song	this:68
+it	my	the:76
+it	my	the	to:54
+it	my	the	this:60
+it	my	to:81
+it	my	to	this:64
+it	my	this:90
+it	was:125
+it	was	to:78
+it	was	to	song:53
+it	was	to	song	this:50
+it	was	to	the:56
+it	was	to	this:65
+it	was	song:81
+it	was	song	the:58
+it	was	song	the	this:52
+it	was	song	this:74
+it	was	the:89
+it	was	the	this:68
+it	was	this:97
+it	song:126
+it	song	to:77
+it	song	to	the:51
+it	song	to	this:71
+it	song	the:82
+it	song	the	this:71
+it	song	this:111
+it	to:127
+it	to	the:80
+it	to	the	this:57
+it	to	this:95
+it	the:131
+it	the	this:91
+it	this:148
+memories:227
+memories	was:62
+memories	in:64
+memories	and:81
+memories	and	this:50
+memories	and	song:51
+memories	of:84
+memories	to:92
+memories	to	song:51
+memories	to	my:56
+memories	to	this:58
+memories	the:96
+memories	my:106
+memories	my	back:54
+memories	my	song:54
+memories	my	this:58
+memories	song:108
+memories	song	back:60
+memories	song	this:82
+memories	this:116
+memories	this	back:65
+memories	back:117
+in:248
+in	me:87
+in	me	song:50
+in	me	was:50
+in	me	and:52
+in	me	to:59
+in	me	this:62
+in	me	my:65
+in	me	the:66
+in	back:87
+in	back	my:52
+in	back	to:53
+in	back	and:56
+in	back	this:59
+in	back	the:68
+in	of:107
+in	of	song:57
+in	of	song	the:51
+in	of	song	this:51
+in	of	was:66
+in	of	was	this:50
+in	of	was	the:55
+in	of	to:69
+in	of	to	and:50
+in	of	to	my:52
+in	of	to	the:61
+in	of	this:71
+in	of	this	and:50
+in	of	this	my:51
+in	of	this	the:61
+in	of	and:72
+in	of	and	my:53
+in	of	and	the:61
+in	of	my:79
+in	of	my	the:64
+in	of	the:90
+in	was:136
+in	was	to:83
+in	was	to	song:53
+in	was	to	song	this:52
+in	was	to	and:58
+in	was	to	my:65
+in	was	to	my	this:52
+in	was	to	my	the:53
+in	was	to	this:67
+in	was	to	this	the:56
+in	was	to	the:69
+in	was	song:87
+in	was	song	my:61
+in	was	song	my	this:56
+in	was	song	the:66
+in	was	song	the	this:63
+in	was	song	this:81
+in	was	and:87
+in	was	and	song:56
+in	was	and	song	this:53
+in	was	and	my:60
+in	was	and	the:69
+in	was	and	this:69
+in	was	and	this	the:55
+in	was	my:92
+in	was	my	the:67
+in	was	my	the	this:52
+in	was	my	this:70
+in	was	the:103
+in	was	this:103
+in	was	this	the:81
+in	and:138
+in	and	song:82
+in	and	song	my:56
+in	and	song	to:56
+in	and	song	the:67
+in	and	song	the	this:57
+in	and	song	this:71
+in	and	my:89
+in	and	my	this:64
+in	and	my	to:67
+in	and	my	to	the:55
+in	and	my	the:70
+in	and	to:92
+in	and	to	this:66
+in	and	to	this	the:56
+in	and	to	the:77
+in	and	this:97
+in	and	this	the:78
+in	and	the:112
+in	song:138
+in	song	to:84
+in	song	to	my:64
+in	song	to	my	the:51
+in	song	to	my	this:57
+in	song	to	the:69
+in	song	to	the	this:61
+in	song	to	this:75
+in	song	my:94
+in	song	my	the:66
+in	song	my	the	this:55
+in	song	my	this:80
+in	song	the:103
+in	song	the	this:89
+in	song	this:117
+in	to:148
+in	to	my:107
+in	to	my	this:78
+in	to	my	this	the:58
+in	to	my	the:82
+in	to	this:108
+in	to	this	the:84
+in	to	the:117
+in	my:161
+in	my	this:110
+in	my	this	the:75
+in	my	the:112
+in	this:166
+in	this	the:124
+in	the:184
+back:249
+back	was:81
+back	was	my:50
+back	was	the:50
+back	was	song:51
+back	was	this:63
+back	of:85
+back	of	my:54
+back	of	the:60
+back	me:89
+back	me	this:52
+back	me	my:57
+back	me	to:64
+back	and:101
+back	and	my:58
+back	and	song:60
+back	and	the:63
+back	and	to:64
+back	and	this:68
+back	song:113
+back	song	the:60
+back	song	the	this:52
+back	song	to:61
+back	song	to	this:52
+back	song	my:66
+back	song	my	this:56
+back	song	this:91
+back	the:123
+back	the	my:65
+back	the	to:75
+back	the	this:75
+back	my:124
+back	my	this:78
+back	my	to:78
+back	to:125
+back	to	this:77
+back	this:134
+me:258
+me	was:96
+me	was	and:54
+me	was	song:56
+me	was	song	this:52
+me	was	the:59
+me	was	to:63
+me	was	to	my:50
+me	was	to	this:51
+me	was	my:68
+me	was	my	this:53
+me	was	this:74
+me	and:114
+me	and	of:64
+me	and	song:65
+me	and	song	to:50
+me	and	song	this:55
+me	and	the:74
+me	and	the	this:52
+me	and	the	to:58
+me	and	my:76
+me	and	my	this:56
+me	and	my	to:63
+me	and	this:79
+me	and	this	to:60
+me	and	to:85
+me	the:130
+me	the	song:70
+me	the	song	this:61
+me	the	of:72
+me	the	of	to:50
+me	the	of	this:51
+me	the	my:76
+me	the	my	this:55
+me	the	my	to:61
+me	the	to:85
+me	the	to	this:58
+me	the	this:88
+me	song:134
+me	song	of:73
+me	song	of	my:53
+me	song	of	this:64
+me	song	to:79
+me	song	to	my:59
+me	song	to	my	this:53
+me	song	to	this:69
+me	song	my:88
+me	song	my	this:81
+me	song	this:118
+me	of:135
+me	of	to:73
+me	of	to	this:54
+me	of	to	my:57
+me	of	this:89
+me	of	this	my:67
+me	of	my:98
+me	to:153
+me	to	this:106
+me	to	this	my:80
+me	to	my:112
+me	this:166
+me	this	my:116
+me	my:168
+of:278
+of	was:111
+of	was	song:62
+of	was	song	this:55
+of	was	and:69
+of	was	and	my:50
+of	was	and	this:51
+of	was	and	the:52
+of	was	and	to:54
+of	was	my:75
+of	was	my	this:54
+of	was	my	the:56
+of	was	to:75
+of	was	to	this:53
+of	was	to	my:53
+of	was	to	the:60
+of	was	this:78
+of	was	this	the:60
+of	was	the:83
+of	song:139
+of	song	to:79
+of	song	to	my:55
+of	song	to	the:56
+of	song	to	this:69
+of	song	the:85
+of	song	the	my:58
+of	song	the	this:67
+of	song	my:95
+of	song	my	this:80
+of	song	this:114
+of	and:139
+of	and	song:76
+of	and	song	to:53
+of	and	song	the:53
+of	and	song	my:55
+of	and	song	this:63
+of	and	this:88
+of	and	this	to:60
+of	and	this	my:62
+of	and	this	the:62
+of	and	to:93
+of	and	to	my:66
+of	and	to	the:68
+of	and	the:96
+of	and	the	my:62
+of	and	my:97
+of	to:148
+of	to	this:98
+of	to	this	my:70
+of	to	this	my	the:52
+of	to	this	the:71
+of	to	my:106
+of	to	the:106
+of	to	the	my:75
+of	this:162
+of	this	the:100
+of	this	the	my:70
+of	this	my:115
+of	the:169
+of	the	my:110
+of	my:188
+was:290
+was	and:153
+was	and	song:94
+was	and	song	to:62
+was	and	song	to	this:57
+was	and	song	the:63
+was	and	song	the	this:56
+was	and	song	my:67
+was	and	song	my	this:61
+was	and	song	this:86
+was	and	my:100
+was	and	my	the:64
+was	and	my	the	to:50
+was	and	my	to:73
+was	and	my	to	this:55
+was	and	my	this:76
+was	and	to:102
+was	and	to	the:73
+was	and	to	the	this:55
+was	and	to	this:77
+was	and	the:103
+was	and	the	this:75
+was	and	this:113
+was	to:160
+was	to	song:95
+was	to	song	the:62
+was	to	song	the	this:57
+was	to	song	my:70
+was	to	song	my	this:65
+was	to	song	this:88
+was	to	the:108
+was	to	the	my:74
+was	to	the	my	this:58
+was	to	the	this:80
+was	to	my:111
+was	to	my	this:85
+was	to	this:119
+was	song:168
+was	song	the:99
+was	song	the	my:63
+was	song	the	my	this:58
+was	song	the	this:89
+was	song	my:106
+was	song	my	this:97
+was	song	this:149
+was	my:171
+was	my	this:129
+was	the:171
+was	the	my:103
+was	the	my	this:80
+was	the	this:122
+was	this:201
+and:309
+and	song:169
+and	song	the:104
+and	song	the	my:67
+and	song	the	my	to:53
+and	song	the	my	this:53
+and	song	the	to:71
+and	song	the	to	this:58
+and	song	the	this:84
+and	song	to:108
+and	song	to	my:82
+and	song	to	my	this:66
+and	song	to	this:88
+and	song	my:113
+and	song	my	this:93
+and	song	this:136
+and	my:179
+and	my	the:106
+and	my	the	this:70
+and	my	the	this	to:55
+and	my	the	to:80
+and	my	this:120
+and	my	this	to:84
+and	my	to:125
+and	to:187
+and	to	this:122
+and	to	this	the:83
+and	to	the:128
+and	this:189
+and	this	the:119
+and	the:192
+song:353
+song	the:179
+song	the	to:105
+song	the	to	my:75
+song	the	to	my	this:63
+song	the	to	this:88
+song	the	my:107
+song	the	my	this:86
+song	the	this:143
+song	to:182
+song	to	my:127
+song	to	my	this:109
+song	to	this:156
+song	my:212
+song	my	this:180
+song	this:283
+to:358
+to	the:208
+to	the	my:128
+to	the	my	this:88
+to	the	this:134
+to	my:227
+to	my	this:154
+to	this:230
+the:369
+the	my:192
+the	my	this:123
+the	this:212
+my:400
+my	this:252
+this:412

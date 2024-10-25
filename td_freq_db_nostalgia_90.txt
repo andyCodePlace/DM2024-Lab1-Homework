@@ -1,0 +1,187 @@
+great:93
+is:97
+brings:103
+brings	back:91
+with:107
+old:108
+that:113
+time:113
+remember:121
+love:124
+for:125
+on:128
+on	the:94
+years:136
+years	this:92
+so:149
+so	to:94
+so	this:98
+when:206
+when	and:108
+when	my:114
+when	to:121
+when	to	this:91
+when	to	was:93
+when	the:125
+when	the	this:92
+when	the	was:94
+when	song:133
+when	song	was:105
+when	song	was	this:96
+when	song	this:117
+when	this:151
+when	this	was:121
+when	was:159
+it:212
+it	of:93
+it	and:113
+it	my:114
+it	my	this:90
+it	was:125
+it	was	this:97
+it	song:126
+it	song	this:111
+it	to:127
+it	to	this:95
+it	the:131
+it	the	this:91
+it	this:148
+memories:227
+memories	to:92
+memories	the:96
+memories	my:106
+memories	song:108
+memories	this:116
+memories	back:117
+in:248
+in	of:107
+in	of	the:90
+in	was:136
+in	was	my:92
+in	was	the:103
+in	was	this:103
+in	song:138
+in	song	my:94
+in	song	the:103
+in	song	this:117
+in	and:138
+in	and	to:92
+in	and	this:97
+in	and	the:112
+in	to:148
+in	to	my:107
+in	to	this:108
+in	to	the:117
+in	my:161
+in	my	this:110
+in	my	the:112
+in	this:166
+in	this	the:124
+in	the:184
+back:249
+back	and:101
+back	song:113
+back	song	this:91
+back	the:123
+back	my:124
+back	to:125
+back	this:134
+me:258
+me	was:96
+me	and:114
+me	the:130
+me	song:134
+me	song	this:118
+me	of:135
+me	of	my:98
+me	to:153
+me	to	this:106
+me	to	my:112
+me	this:166
+me	this	my:116
+me	my:168
+of:278
+of	was:111
+of	and:139
+of	and	to:93
+of	and	the:96
+of	and	my:97
+of	song:139
+of	song	my:95
+of	song	this:114
+of	to:148
+of	to	this:98
+of	to	my:106
+of	to	the:106
+of	this:162
+of	this	the:100
+of	this	my:115
+of	the:169
+of	the	my:110
+of	my:188
+was:290
+was	and:153
+was	and	song:94
+was	and	my:100
+was	and	to:102
+was	and	the:103
+was	and	this:113
+was	to:160
+was	to	song:95
+was	to	the:108
+was	to	my:111
+was	to	this:119
+was	song:168
+was	song	the:99
+was	song	my:106
+was	song	my	this:97
+was	song	this:149
+was	my:171
+was	my	this:129
+was	the:171
+was	the	my:103
+was	the	this:122
+was	this:201
+and:309
+and	song:169
+and	song	the:104
+and	song	to:108
+and	song	my:113
+and	song	my	this:93
+and	song	this:136
+and	my:179
+and	my	the:106
+and	my	this:120
+and	my	to:125
+and	to:187
+and	to	this:122
+and	to	the:128
+and	this:189
+and	this	the:119
+and	the:192
+song:353
+song	the:179
+song	the	to:105
+song	the	my:107
+song	the	this:143
+song	to:182
+song	to	my:127
+song	to	my	this:109
+song	to	this:156
+song	my:212
+song	my	this:180
+song	this:283
+to:358
+to	the:208
+to	the	my:128
+to	the	this:134
+to	my:227
+to	my	this:154
+to	this:230
+the:369
+the	my:192
+the	my	this:123
+the	this:212
+my:400
+my	this:252
+this:412

@@ -1,0 +1,610 @@
+man:30
+some:30
+world:30
+than:30
+heard:31
+people:31
+listening:31
+most:31
+him:32
+get:32
+video:32
+today:32
+been:32
+such:34
+too:34
+many:35
+singer:35
+old:35
+here:35
+listen:36
+listen	to:32
+had:36
+do:36
+could:37
+there:37
+up:37
+an:37
+hear:38
+am:38
+these:38
+very:40
+still:42
+out:42
+thank:43
+thank	you:38
+we:43
+we	the:33
+has:43
+would:43
+think:43
+think	the:31
+more:43
+more	the:33
+only:43
+only	the:33
+don:43
+best:45
+best	the:38
+if:46
+by:46
+by	the:36
+how:46
+ever:47
+ever	the:36
+really:48
+really	the:31
+about:48
+about	the:36
+who:49
+who	the:36
+much:49
+much	this:30
+good:50
+now:51
+always:51
+his:52
+his	the:30
+know:52
+know	this:30
+know	the:32
+never:53
+never	this:34
+no:54
+no	this:31
+no	the:31
+at:55
+at	this:34
+at	and:37
+at	and	the:31
+at	the:42
+are:57
+are	the:39
+she:59
+she	the:33
+she	and:36
+from:60
+from	this:30
+from	and:35
+from	the:44
+they:61
+they	and:30
+they	the:42
+as:61
+as	it:31
+as	the:39
+her:63
+her	the:32
+her	to:35
+her	and:39
+will:64
+will	to:30
+will	this:30
+will	the:37
+when:68
+when	to:30
+when	song:30
+when	the:36
+when	this:41
+songs:71
+songs	and:32
+songs	of:39
+songs	the:43
+time:72
+time	to:30
+time	and:33
+time	of:34
+time	this:38
+time	the:49
+just:77
+just	it:30
+just	song:31
+just	of:33
+just	and:34
+just	this:39
+just	the:47
+he:78
+he	to:30
+he	was:33
+he	and:38
+he	the:41
+beautiful:78
+beautiful	to:31
+beautiful	of:31
+beautiful	this:33
+beautiful	the:39
+beautiful	and:39
+beautiful	song:40
+voice:79
+voice	to:30
+voice	the:38
+voice	and:48
+be:79
+be	of:31
+be	this:33
+be	and:34
+be	to:47
+be	to	the:37
+be	the:55
+what:82
+what	song:30
+what	this:32
+what	is:32
+what	of:33
+what	to:33
+what	and:43
+what	the:46
+me:83
+me	song:33
+me	of:33
+me	to:36
+me	and:39
+me	the:42
+me	this:49
+on:84
+on	to:32
+on	it:33
+on	and:39
+on	this:46
+on	the:56
+can:85
+can	to:32
+can	and:39
+can	this:45
+can	the:53
+great:85
+great	song:31
+great	to:38
+great	of:38
+great	of	the:33
+great	this:41
+great	and:45
+great	and	the:32
+great	the:56
+all:87
+all	that:30
+all	this:36
+all	of:41
+all	of	the:31
+all	and:46
+all	and	to:32
+all	and	the:36
+all	to:51
+all	to	the:36
+all	the:60
+not:87
+not	it:33
+not	and:35
+not	is:36
+not	to:36
+not	this:40
+not	the:48
+with:96
+with	of:32
+with	song:34
+with	to:36
+with	in:38
+with	in	the:31
+with	and:47
+with	and	the:36
+with	this:51
+with	this	the:33
+with	the:65
+like:98
+like	you:30
+like	song:35
+like	of:37
+like	and:40
+like	the:40
+like	to:41
+like	this:60
+but:101
+but	song:30
+but	my:31
+but	it:36
+but	that:38
+but	that	the:31
+but	in:40
+but	in	the:34
+but	to:44
+but	to	the:30
+but	of:47
+but	of	the:36
+but	is:47
+but	is	this:30
+but	and:52
+but	and	this:30
+but	and	the:39
+but	this:57
+but	this	the:40
+but	the:67
+have:104
+have	it:30
+have	is:32
+have	that:32
+have	you:33
+have	in:35
+have	song:36
+have	of:39
+have	of	the:33
+have	to:48
+have	to	and:30
+have	to	this:30
+have	to	the:36
+have	and:49
+have	and	this:31
+have	and	the:36
+have	this:59
+have	this	the:38
+have	the:66
+one:104
+one	it:32
+one	is:34
+one	that:35
+one	in:41
+one	in	of:30
+one	in	the:38
+one	to:43
+one	to	of:33
+one	to	the:36
+one	this:48
+one	this	the:35
+one	this	of:36
+one	and:51
+one	and	of:35
+one	and	the:38
+one	of:74
+one	of	the:56
+one	the:74
+so:116
+so	that:35
+so	in:38
+so	it:39
+so	is:45
+so	is	the:31
+so	to:48
+so	to	and:31
+so	of:48
+so	of	and:31
+so	of	the:33
+so	song:51
+so	song	this:39
+so	this:60
+so	this	and:34
+so	this	the:36
+so	the:63
+so	and:63
+so	and	the:38
+was:121
+was	my:33
+was	that:34
+was	song:38
+was	to:42
+was	of:42
+was	of	the:32
+was	in:44
+was	in	the:36
+was	it:48
+was	and:58
+was	and	the:38
+was	this:60
+was	this	the:30
+was	the:73
+for:122
+for	that:37
+for	is:38
+for	song:40
+for	song	this:35
+for	in:42
+for	in	the:36
+for	you:44
+for	it:45
+for	it	the:32
+for	to:51
+for	to	this:30
+for	to	the:35
+for	of:53
+for	of	and:31
+for	of	the:43
+for	and:59
+for	and	the:44
+for	this:62
+for	this	the:40
+for	the:83
+music:123
+music	in:38
+music	in	the:31
+music	is:41
+music	to:44
+music	to	and:30
+music	of:51
+music	of	and:31
+music	of	the:37
+music	this:63
+music	this	and:31
+music	this	the:35
+music	and:65
+music	and	the:42
+music	the:73
+love:131
+love	that:30
+love	you:36
+love	my:37
+love	in:38
+love	is:43
+love	of:50
+love	of	and:31
+love	of	the:32
+love	it:53
+love	it	song:32
+love	it	this:35
+love	to:56
+love	to	the:31
+love	to	this:34
+love	to	and:37
+love	and:64
+love	and	song:32
+love	and	the:36
+love	and	this:37
+love	song:65
+love	song	this:46
+love	the:67
+love	the	this:34
+love	this:72
+you:156
+you	that:45
+you	it:45
+you	in:48
+you	in	the:35
+you	song:50
+you	song	this:38
+you	is:50
+you	is	this:30
+you	is	the:33
+you	of:55
+you	of	this:31
+you	of	the:40
+you	to:67
+you	to	the:37
+you	to	and:37
+you	to	this:39
+you	and:73
+you	and	this:40
+you	and	the:45
+you	this:76
+you	this	the:42
+you	the:81
+my:162
+my	that:31
+my	it:45
+my	is:49
+my	is	and:30
+my	is	this:34
+my	in:54
+my	in	and:30
+my	in	this:33
+my	in	the:38
+my	song:60
+my	song	and:36
+my	song	and	this:30
+my	song	this:51
+my	of:60
+my	of	and:31
+my	of	this:32
+my	of	the:37
+my	to:66
+my	to	the:33
+my	to	this:39
+my	to	and:41
+my	and:80
+my	and	this:48
+my	and	the:50
+my	the:80
+my	the	this:40
+my	this:92
+that:171
+that	song:54
+that	song	the:31
+that	song	this:37
+that	it:55
+that	it	to:32
+that	it	the:39
+that	of:61
+that	of	to:30
+that	of	in:31
+that	of	is:33
+that	of	and:34
+that	of	the:49
+that	in:63
+that	in	this:30
+that	in	and:31
+that	in	is:32
+that	in	to:37
+that	in	to	the:32
+that	in	the:52
+that	is:72
+that	is	to:37
+that	is	this:38
+that	is	and:41
+that	is	the:50
+that	this:77
+that	this	to:43
+that	this	to	the:31
+that	this	and:43
+that	this	and	the:31
+that	this	the:55
+that	and:82
+that	and	the:55
+that	to:82
+that	to	and:45
+that	to	and	the:33
+that	to	the:56
+that	the:109
+it:195
+it	in:64
+it	in	to:35
+it	in	this:40
+it	in	the:47
+it	of:68
+it	of	song:30
+it	of	to:33
+it	of	this:34
+it	of	and:37
+it	of	and	the:30
+it	of	the:49
+it	is:72
+it	is	to:35
+it	is	this:38
+it	is	and:39
+it	is	the:48
+it	song:86
+it	song	to:40
+it	song	to	this:37
+it	song	the:41
+it	song	the	this:31
+it	song	and:44
+it	song	and	this:39
+it	song	this:67
+it	and:94
+it	and	to:54
+it	and	to	this:33
+it	and	to	the:34
+it	and	the:55
+it	and	this:57
+it	to:95
+it	to	this:57
+it	to	this	the:32
+it	to	the:59
+it	the:108
+it	this:108
+it	this	the:54
+in:204
+in	song:65
+in	song	the:45
+in	song	the	this:35
+in	song	this:53
+in	is:69
+in	is	to:30
+in	is	and:34
+in	is	of:34
+in	is	of	the:32
+in	is	this:40
+in	is	this	the:31
+in	is	the:53
+in	to:82
+in	to	of:38
+in	to	of	the:35
+in	to	this:44
+in	to	this	the:31
+in	to	and:44
+in	to	and	the:35
+in	to	the:63
+in	of:83
+in	of	this:41
+in	of	this	the:36
+in	of	and:46
+in	of	and	the:42
+in	of	the:74
+in	and:97
+in	and	this:48
+in	and	this	the:35
+in	and	the:73
+in	this:107
+in	this	the:74
+in	the:149
+is:216
+is	song:76
+is	song	of:33
+is	song	and:40
+is	song	the:46
+is	song	the	this:35
+is	song	this:59
+is	of:78
+is	of	to:34
+is	of	and:40
+is	of	and	the:32
+is	of	this:44
+is	of	this	the:33
+is	of	the:62
+is	to:81
+is	to	this:47
+is	to	this	and:30
+is	to	and:50
+is	to	and	the:32
+is	to	the:53
+is	and:110
+is	and	this:61
+is	and	this	the:37
+is	and	the:65
+is	this:126
+is	this	the:74
+is	the:130
+song:251
+song	of:89
+song	of	to:33
+song	of	and:38
+song	of	the:60
+song	of	the	this:47
+song	of	this:68
+song	to:92
+song	to	the:47
+song	to	the	this:40
+song	to	and:47
+song	to	and	this:38
+song	to	this:75
+song	and:106
+song	and	the:52
+song	and	the	this:39
+song	and	this:78
+song	the:124
+song	the	this:94
+song	this:186
+of:260
+of	to:103
+of	to	this:47
+of	to	this	the:33
+of	to	and:59
+of	to	and	the:49
+of	to	the:79
+of	and:121
+of	and	this:58
+of	and	this	the:41
+of	and	the:92
+of	this:124
+of	this	the:80
+of	the:183
+to:277
+to	this:140
+to	this	the:76
+to	this	the	and:46
+to	this	and:78
+to	and:142
+to	and	the:87
+to	the:159
+and:311
+and	this:155
+and	this	the:87
+and	the:179
+this:354
+this	the:184
+the:405
