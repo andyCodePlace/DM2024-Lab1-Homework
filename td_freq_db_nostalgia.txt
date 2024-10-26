@@ -31,8 +31,8 @@ time	this:73
 time	the:79
 remember:121
 remember	song:72
-remember	the:73
 remember	was:73
+remember	the:73
 remember	this:82
 love:124
 love	song:70
@@ -61,9 +61,9 @@ years	my:86
 years	this:92
 so:149
 so	was:72
-so	the:77
 so	song:77
 so	and:77
+so	the:77
 so	my:78
 so	to:94
 so	this:98
@@ -157,8 +157,8 @@ memories	song	this:82
 memories	this:116
 memories	back:117
 in:248
-in	me:87
 in	back:87
+in	me:87
 in	of:107
 in	of	this:71
 in	of	and:72
@@ -166,14 +166,14 @@ in	of	my:79
 in	of	the:90
 in	was:136
 in	was	to:83
+in	was	and:87
 in	was	song:87
 in	was	song	this:81
-in	was	and:87
 in	was	my:92
 in	was	my	this:70
-in	was	the:103
 in	was	this:103
 in	was	this	the:81
+in	was	the:103
 in	song:138
 in	song	to:84
 in	song	to	this:75
@@ -255,8 +255,8 @@ me	this	my:116
 me	my:168
 of:278
 of	was:111
-of	was	my:75
 of	was	to:75
+of	was	my:75
 of	was	this:78
 of	was	the:83
 of	song:139
@@ -314,12 +314,12 @@ was	song	the	this:89
 was	song	my:106
 was	song	my	this:97
 was	song	this:149
+was	my:171
+was	my	this:129
 was	the:171
 was	the	my:103
 was	the	my	this:80
 was	the	this:122
-was	my:171
-was	my	this:129
 was	this:201
 and:309
 and	song:169

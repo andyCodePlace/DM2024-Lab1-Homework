@@ -89,8 +89,8 @@ like	this:60
 but:101
 but	in:40
 but	to:44
-but	of:47
 but	is:47
+but	of:47
 but	and:52
 but	this:57
 but	this	the:40
@@ -114,8 +114,8 @@ so	to:48
 so	of:48
 so	song:51
 so	this:60
-so	and:63
 so	the:63
+so	and:63
 was:121
 was	to:42
 was	of:42
@@ -156,8 +156,8 @@ love	song	this:46
 love	the:67
 love	this:72
 you:156
-you	it:45
 you	that:45
+you	it:45
 you	in:48
 you	song:50
 you	is:50
@@ -179,11 +179,11 @@ my	song:60
 my	song	this:51
 my	to:66
 my	to	and:41
+my	the:80
+my	the	this:40
 my	and:80
 my	and	this:48
 my	and	the:50
-my	the:80
-my	the	this:40
 my	this:92
 that:171
 that	song:54
@@ -196,8 +196,8 @@ that	is:72
 that	is	and:41
 that	is	the:50
 that	this:77
-that	this	to:43
 that	this	and:43
+that	this	to:43
 that	this	the:55
 that	to:82
 that	to	and:45
@@ -236,8 +236,8 @@ in	is:69
 in	is	this:40
 in	is	the:53
 in	to:82
-in	to	and:44
 in	to	this:44
+in	to	and:44
 in	to	the:63
 in	of:83
 in	of	this:41

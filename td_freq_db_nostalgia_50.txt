@@ -79,8 +79,8 @@ with	the:71
 old:108
 old	my:54
 old	and:54
-old	song:55
 old	years:55
+old	song:55
 old	to:60
 old	this:65
 old	was:65
@@ -114,8 +114,8 @@ time	this	the:51
 time	the:79
 remember:121
 remember	in:50
-remember	it:51
 remember	when:51
+remember	it:51
 remember	and:64
 remember	my:67
 remember	to:68
@@ -146,9 +146,9 @@ for	in:59
 for	and:63
 for	song:65
 for	song	this:54
+for	to:67
 for	was:67
 for	was	the:51
-for	to:67
 for	my:70
 for	my	this:50
 for	this:80
@@ -196,14 +196,14 @@ years	and	to:50
 years	and	my:51
 years	and	this:54
 years	and	the:55
-years	the:77
-years	the	my:50
-years	the	was:53
-years	the	this:58
 years	to:77
 years	to	the:50
 years	to	my:54
 years	to	this:60
+years	the:77
+years	the	my:50
+years	the	was:53
+years	the	this:58
 years	was:78
 years	was	this:58
 years	my:86
@@ -211,22 +211,22 @@ years	my	this:59
 years	this:92
 so:149
 so	when:50
-so	back:51
 so	me:51
-so	it:56
+so	back:51
 so	in:56
+so	it:56
 so	memories:57
 so	of:58
 so	was:72
 so	was	this:51
 so	was	to:51
+so	the:77
+so	the	to:53
 so	song:77
 so	song	to:52
 so	song	this:67
 so	and:77
 so	and	to:52
-so	the:77
-so	the	to:53
 so	my:78
 so	my	this:59
 so	my	to:59
@@ -236,8 +236,8 @@ so	this:98
 when:206
 when	back:55
 when	me:76
-when	me	the:51
 when	me	was:51
+when	me	the:51
 when	me	this:59
 when	it:82
 when	it	to:53
@@ -259,11 +259,11 @@ when	of	this:64
 when	of	this	was:50
 when	in:88
 when	in	my:55
-when	in	to:59
-when	in	to	the:54
 when	in	and:59
 when	in	and	the:50
 when	in	and	was:50
+when	in	to:59
+when	in	to	the:54
 when	in	song:62
 when	in	song	the:53
 when	in	song	this:55
@@ -366,9 +366,9 @@ it	me	this:68
 it	of:93
 it	of	and:53
 it	of	was:54
-it	of	my:59
 it	of	song:59
 it	of	song	this:54
+it	of	my:59
 it	of	to:61
 it	of	to	this:50
 it	of	the:66
@@ -376,8 +376,8 @@ it	of	the	this:51
 it	of	this:72
 it	and:113
 it	and	my:68
-it	and	my	to:51
 it	and	my	song:51
+it	and	my	to:51
 it	and	my	this:56
 it	and	to:71
 it	and	to	the:51
@@ -460,6 +460,12 @@ memories	this:116
 memories	this	back:65
 memories	back:117
 in:248
+in	back:87
+in	back	my:52
+in	back	to:53
+in	back	and:56
+in	back	this:59
+in	back	the:68
 in	me:87
 in	me	song:50
 in	me	was:50
@@ -468,12 +474,6 @@ in	me	to:59
 in	me	this:62
 in	me	my:65
 in	me	the:66
-in	back:87
-in	back	my:52
-in	back	to:53
-in	back	and:56
-in	back	this:59
-in	back	the:68
 in	of:107
 in	of	song:57
 in	of	song	the:51
@@ -528,8 +528,8 @@ in	was	this:103
 in	was	this	the:81
 in	and:138
 in	and	song:82
-in	and	song	my:56
 in	and	song	to:56
+in	and	song	my:56
 in	and	song	the:67
 in	and	song	the	this:57
 in	and	song	this:71
@@ -604,8 +604,8 @@ back	song	my	this:56
 back	song	this:91
 back	the:123
 back	the	my:65
-back	the	to:75
 back	the	this:75
+back	the	to:75
 back	my:124
 back	my	this:78
 back	my	to:78
@@ -684,13 +684,13 @@ of	was	and	my:50
 of	was	and	this:51
 of	was	and	the:52
 of	was	and	to:54
-of	was	my:75
-of	was	my	this:54
-of	was	my	the:56
 of	was	to:75
 of	was	to	this:53
 of	was	to	my:53
 of	was	to	the:60
+of	was	my:75
+of	was	my	this:54
+of	was	my	the:56
 of	was	this:78
 of	was	this	the:60
 of	was	the:83
@@ -707,14 +707,14 @@ of	song	my	this:80
 of	song	this:114
 of	and:139
 of	and	song:76
-of	and	song	to:53
 of	and	song	the:53
+of	and	song	to:53
 of	and	song	my:55
 of	and	song	this:63
 of	and	this:88
 of	and	this	to:60
-of	and	this	my:62
 of	and	this	the:62
+of	and	this	my:62
 of	and	to:93
 of	and	to	my:66
 of	and	to	the:68
@@ -792,8 +792,8 @@ and:309
 and	song:169
 and	song	the:104
 and	song	the	my:67
-and	song	the	my	to:53
 and	song	the	my	this:53
+and	song	the	my	to:53
 and	song	the	to:71
 and	song	the	to	this:58
 and	song	the	this:84

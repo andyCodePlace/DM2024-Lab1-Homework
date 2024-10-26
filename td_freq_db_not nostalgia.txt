@@ -33,8 +33,8 @@ you	and:73
 you	this:76
 you	the:81
 my:162
-my	and:80
 my	the:80
+my	and:80
 my	this:92
 that:171
 that	is:72

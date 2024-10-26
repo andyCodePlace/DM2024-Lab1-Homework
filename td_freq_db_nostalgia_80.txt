@@ -92,9 +92,9 @@ in	of:107
 in	of	the:90
 in	was:136
 in	was	to:83
-in	was	and:87
 in	was	song:87
 in	was	song	this:81
+in	was	and:87
 in	was	my:92
 in	was	the:103
 in	was	this:103
@@ -171,8 +171,8 @@ of	song	my	this:80
 of	song	this:114
 of	to:148
 of	to	this:98
-of	to	my:106
 of	to	the:106
+of	to	my:106
 of	this:162
 of	this	the:100
 of	this	my:115
@@ -201,12 +201,12 @@ was	song	the	this:89
 was	song	my:106
 was	song	my	this:97
 was	song	this:149
-was	my:171
-was	my	this:129
 was	the:171
 was	the	my:103
 was	the	my	this:80
 was	the	this:122
+was	my:171
+was	my	this:129
 was	this:201
 and:309
 and	song:169

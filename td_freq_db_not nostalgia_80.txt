@@ -19,12 +19,12 @@ love:131
 you:156
 you	the:81
 my:162
-my	the:80
 my	and:80
+my	the:80
 my	this:92
 that:171
-that	and:82
 that	to:82
+that	and:82
 that	the:109
 it:195
 it	song:86

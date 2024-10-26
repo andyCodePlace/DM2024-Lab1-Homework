@@ -72,8 +72,8 @@ such:34
 such	and:20
 too:34
 many:35
-many	the:20
 many	of:20
+many	the:20
 singer:35
 singer	and:21
 singer	the:27
@@ -94,8 +94,8 @@ had	the:20
 do:36
 do	to:21
 do	the:23
-do	this:23
 do	and:23
+do	this:23
 could:37
 could	the:23
 there:37
@@ -111,15 +111,15 @@ an	the:21
 hear:38
 hear	and:20
 am:38
-am	to:20
 am	and:20
+am	to:20
 these:38
 very:40
 very	the:22
 very	and:23
 still:42
-still	and:20
 still	song:20
+still	and:20
 still	the:24
 out:42
 out	it:21
@@ -128,9 +128,9 @@ out	the:23
 out	this:25
 thank:43
 thank	this:23
+thank	and:24
 thank	the:24
 thank	the	you:22
-thank	and:24
 thank	for:26
 thank	for	you:23
 thank	you:38
@@ -188,8 +188,8 @@ by	and	the:21
 by	the:36
 how:46
 how	this:23
-how	to:24
 how	and:24
+how	to:24
 how	the:25
 ever:47
 ever	this:20
@@ -222,8 +222,8 @@ much	this:30
 good:50
 good	to:20
 good	this:23
-good	and:25
 good	the:25
+good	and:25
 now:51
 now	is:20
 now	this:21
@@ -237,9 +237,9 @@ always	to:22
 always	the:26
 always	and:27
 his:52
-his	this:20
 his	to:20
 his	of:20
+his	this:20
 his	he:26
 his	and:27
 his	the:30
@@ -250,12 +250,12 @@ know	to:26
 know	this:30
 know	the:32
 never:53
-never	will:20
 never	to:20
+never	will:20
 never	song:21
 never	and:24
-never	of:27
 never	the:27
+never	of:27
 never	this:34
 no:54
 no	and:20
@@ -364,17 +364,17 @@ when	and:28
 when	and	this:20
 when	is:28
 when	is	this:20
-when	to:30
-when	to	this:20
 when	song:30
 when	song	this:27
+when	to:30
+when	to	this:20
 when	the:36
 when	this:41
 songs:71
 songs	is:22
 songs	in:23
-songs	my:24
 songs	this:24
+songs	my:24
 songs	to:25
 songs	and:32
 songs	and	the:21
@@ -399,9 +399,9 @@ time	this:38
 time	this	the:24
 time	the:49
 just:77
-just	is:21
-just	love:21
 just	that:21
+just	love:21
+just	is:21
 just	in:25
 just	to:27
 just	it:30
@@ -419,8 +419,8 @@ he:78
 he	so:21
 he	in:22
 he	is:23
-he	song:24
 he	that:24
+he	song:24
 he	of:25
 he	this:27
 he	to:30
@@ -485,21 +485,21 @@ what	you:25
 what	in:26
 what	in	the:22
 what	song:30
+what	this:32
 what	is:32
 what	is	the:20
 what	is	and:21
-what	this:32
-what	of:33
-what	of	the:25
 what	to:33
 what	to	the:20
 what	to	and:21
+what	of:33
+what	of	the:25
 what	and:43
 what	and	the:25
 what	the:46
 me:83
-me	that:20
 me	love:20
+me	that:20
 me	is:22
 me	it:28
 me	my:28
@@ -508,8 +508,8 @@ me	of	the:24
 me	song:33
 me	song	this:28
 me	to:36
-me	to	this:21
 me	to	the:21
+me	to	this:21
 me	to	and:23
 me	and:39
 me	and	the:21
@@ -521,9 +521,9 @@ on:84
 on	that:22
 on	that	the:21
 on	you:22
-on	of:24
 on	is:24
 on	is	the:20
+on	of:24
 on	song:26
 on	song	this:22
 on	in:29
@@ -547,8 +547,8 @@ can	it:21
 can	in:23
 can	song:24
 can	song	this:21
-can	you:25
 can	is:25
+can	you:25
 can	that:26
 can	that	the:23
 can	of:29
@@ -565,8 +565,8 @@ can	this	the:27
 can	the:53
 great:85
 great	so:20
-great	you:21
 great	but:21
+great	you:21
 great	in:23
 great	it:25
 great	is:28
@@ -595,9 +595,9 @@ all	one	of:21
 all	in:24
 all	in	the:22
 all	you:25
-all	my:26
 all	music:26
 all	music	the:20
+all	my:26
 all	song:27
 all	song	this:20
 all	song	the:21
@@ -607,8 +607,8 @@ all	is	the:23
 all	it:28
 all	it	to:20
 all	that:30
-all	that	to:21
 all	that	and:21
+all	that	to:21
 all	that	the:22
 all	this:36
 all	this	to:25
@@ -632,17 +632,17 @@ not	you:23
 not	that:26
 not	in:28
 not	in	the:21
+not	of:29
 not	but:29
 not	song:29
 not	song	this:22
-not	of:29
 not	it:33
 not	it	this:20
 not	and:35
 not	and	is:20
-not	to:36
 not	is:36
 not	is	the:23
+not	to:36
 not	this:40
 not	this	the:20
 not	the:48
@@ -658,8 +658,8 @@ with	it	the:20
 with	that:28
 with	that	the:23
 with	of:32
-with	of	this:20
 with	of	and:20
+with	of	this:20
 with	of	the:26
 with	song:34
 with	song	the:21
@@ -669,8 +669,8 @@ with	to	this:20
 with	to	and:20
 with	to	the:28
 with	in:38
-with	in	this:21
 with	in	and:21
+with	in	this:21
 with	in	the:31
 with	and:47
 with	and	this:27
@@ -680,9 +680,9 @@ with	this:51
 with	this	the:33
 with	the:65
 like:98
-like	my:20
-like	one:20
 like	have:20
+like	one:20
+like	my:20
 like	but:24
 like	music:25
 like	is:26
@@ -696,19 +696,19 @@ like	song	this:27
 like	of:37
 like	of	the:21
 like	of	this:24
-like	the:40
-like	the	to:22
-like	the	this:27
 like	and:40
 like	and	to:20
 like	and	this:27
+like	the:40
+like	the	to:22
+like	the	this:27
 like	to:41
 like	to	this:26
 like	this:60
 but:101
 but	was:21
-but	one:24
 but	you:24
+but	one:24
 but	have:25
 but	have	the:21
 but	song:30
@@ -734,10 +734,10 @@ but	that	the:31
 but	in:40
 but	in	is:20
 but	in	to:20
-but	in	this:25
-but	in	this	the:22
 but	in	and:25
 but	in	and	the:23
+but	in	this:25
+but	in	this	the:22
 but	in	the:34
 but	to:44
 but	to	is:20
@@ -746,17 +746,17 @@ but	to	of	the:20
 but	to	this:24
 but	to	and:27
 but	to	the:30
+but	is:47
+but	is	of:23
+but	is	the:26
+but	is	and:29
+but	is	this:30
 but	of:47
 but	of	and:25
 but	of	and	the:23
 but	of	this:28
 but	of	this	the:22
 but	of	the:36
-but	is:47
-but	is	of:23
-but	is	the:26
-but	is	and:29
-but	is	this:30
 but	and:52
 but	and	this:30
 but	and	this	the:24
@@ -766,8 +766,8 @@ but	this	the:40
 but	the:67
 have:104
 have	my:23
-have	for:24
 have	love:24
+have	for:24
 have	it:30
 have	it	this:20
 have	it	to:20
@@ -826,8 +826,8 @@ one	it	of:23
 one	is:34
 one	is	this:20
 one	is	in:20
-one	is	and:22
 one	is	of:22
+one	is	and:22
 one	is	the:26
 one	that:35
 one	that	and:20
@@ -848,8 +848,8 @@ one	to	of	the:28
 one	to	the:36
 one	this:48
 one	this	and:28
-one	this	and	of:20
 one	this	and	the:20
+one	this	and	of:20
 one	this	the:35
 one	this	the	of:26
 one	this	of:36
@@ -875,8 +875,8 @@ so	in	the:27
 so	it:39
 so	it	the:21
 so	it	to:21
-so	it	this:22
 so	it	and:22
+so	it	this:22
 so	it	song:23
 so	is:45
 so	is	song:20
@@ -885,20 +885,20 @@ so	is	this	the:21
 so	is	and:28
 so	is	and	the:20
 so	is	the:31
-so	to:48
-so	to	song:23
-so	to	the:26
-so	to	this:28
-so	to	and:31
 so	of:48
-so	of	to:22
 so	of	song:22
 so	of	song	this:20
+so	of	to:22
 so	of	this:29
 so	of	this	the:20
 so	of	and:31
 so	of	and	the:25
 so	of	the:33
+so	to:48
+so	to	song:23
+so	to	the:26
+so	to	this:28
+so	to	and:31
 so	song:51
 so	song	and:25
 so	song	the:26
@@ -949,10 +949,10 @@ was	this:60
 was	this	the:30
 was	the:73
 for:122
-for	love:26
-for	love	the:22
 for	my:26
 for	my	the:20
+for	love:26
+for	love	the:22
 for	that:37
 for	that	in:21
 for	that	in	the:20
@@ -986,10 +986,10 @@ for	it	this:27
 for	it	this	the:20
 for	it	the:32
 for	to:51
-for	to	of:27
-for	to	of	the:22
 for	to	and:27
 for	to	and	the:22
+for	to	of:27
+for	to	of	the:22
 for	to	this:30
 for	to	this	the:20
 for	to	the:35
@@ -1009,8 +1009,8 @@ for	the:83
 music:123
 music	song:23
 music	you:24
-music	love:25
 music	my:25
+music	love:25
 music	that:26
 music	it:28
 music	it	the:21
@@ -1174,12 +1174,6 @@ my	in	and	the:24
 my	in	this:33
 my	in	this	the:22
 my	in	the:38
-my	of:60
-my	of	to:20
-my	of	and:31
-my	of	and	the:23
-my	of	this:32
-my	of	the:37
 my	song:60
 my	song	to:25
 my	song	to	this:23
@@ -1188,6 +1182,12 @@ my	song	the	this:23
 my	song	and:36
 my	song	and	this:30
 my	song	this:51
+my	of:60
+my	of	to:20
+my	of	and:31
+my	of	and	the:23
+my	of	this:32
+my	of	the:37
 my	to:66
 my	to	the:33
 my	to	the	and:27
@@ -1216,10 +1216,10 @@ that	it	of:23
 that	it	in:24
 that	it	in	the:20
 that	it	is:26
-that	it	and:27
-that	it	and	the:20
 that	it	this:27
 that	it	this	the:20
+that	it	and:27
+that	it	and	the:20
 that	it	to:32
 that	it	to	the:22
 that	it	the:39
@@ -1259,12 +1259,12 @@ that	is	and:41
 that	is	and	the:27
 that	is	the:50
 that	this:77
+that	this	and:43
+that	this	and	the:31
 that	this	to:43
 that	this	to	and:26
 that	this	to	and	the:20
 that	this	to	the:31
-that	this	and:43
-that	this	and	the:31
 that	this	the:55
 that	to:82
 that	to	and:45
@@ -1361,10 +1361,10 @@ in	song	this:53
 in	is:69
 in	is	to:30
 in	is	to	the:24
-in	is	of:34
-in	is	of	the:32
 in	is	and:34
 in	is	and	the:27
+in	is	of:34
+in	is	of	the:32
 in	is	this:40
 in	is	this	the:31
 in	is	the:53

@@ -54,8 +54,8 @@ one	of	the:56
 so:116
 so	song:51
 so	this:60
-so	and:63
 so	the:63
+so	and:63
 was:121
 was	and:58
 was	this:60
@@ -80,8 +80,8 @@ love	song:65
 love	the:67
 love	this:72
 you:156
-you	song:50
 you	is:50
+you	song:50
 you	of:55
 you	to:67
 you	and:73
@@ -125,9 +125,9 @@ it	and	this:57
 it	to:95
 it	to	this:57
 it	to	the:59
-it	the:108
 it	this:108
 it	this	the:54
+it	the:108
 in:204
 in	song:65
 in	song	this:53

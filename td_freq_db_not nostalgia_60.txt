@@ -32,8 +32,8 @@ one	the:74
 one	of:74
 so:116
 so	this:60
-so	and:63
 so	the:63
+so	and:63
 was:121
 was	this:60
 was	the:73

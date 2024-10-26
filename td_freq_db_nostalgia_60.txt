@@ -46,8 +46,8 @@ old	was:65
 old	the:68
 that:113
 that	my:63
-that	this:66
 that	and:66
+that	this:66
 that	song:67
 that	was:67
 that	to:72
@@ -63,8 +63,8 @@ remember	my:67
 remember	to:68
 remember	song:72
 remember	song	this:61
-remember	the:73
 remember	was:73
+remember	the:73
 remember	this:82
 love:124
 love	of:60
@@ -77,8 +77,8 @@ love	this:80
 for:125
 for	and:63
 for	song:65
-for	to:67
 for	was:67
+for	to:67
 for	my:70
 for	this:80
 for	the:82
@@ -109,10 +109,10 @@ years	my:86
 years	this:92
 so:149
 so	was:72
+so	the:77
 so	song:77
 so	song	this:67
 so	and:77
-so	the:77
 so	my:78
 so	to:94
 so	to	this:63
@@ -149,8 +149,8 @@ when	my	the:70
 when	my	song:73
 when	my	song	this:66
 when	my	to:82
-when	my	to	was:62
 when	my	to	this:62
+when	my	to	was:62
 when	my	was:86
 when	my	was	this:70
 when	my	this:87
@@ -245,12 +245,12 @@ memories	this:116
 memories	this	back:65
 memories	back:117
 in:248
-in	back:87
-in	back	the:68
 in	me:87
 in	me	this:62
 in	me	my:65
 in	me	the:66
+in	back:87
+in	back	the:68
 in	of:107
 in	of	was:66
 in	of	to:69
@@ -274,14 +274,14 @@ in	was	song	the	this:63
 in	was	song	this:81
 in	was	and:87
 in	was	and	my:60
-in	was	and	the:69
 in	was	and	this:69
+in	was	and	the:69
 in	was	my:92
 in	was	my	the:67
 in	was	my	this:70
+in	was	the:103
 in	was	this:103
 in	was	this	the:81
-in	was	the:103
 in	song:138
 in	song	to:84
 in	song	to	my:64
@@ -344,8 +344,8 @@ back	the	my:65
 back	the	this:75
 back	the	to:75
 back	my:124
-back	my	this:78
 back	my	to:78
+back	my	this:78
 back	to:125
 back	to	this:77
 back	this:134
@@ -395,25 +395,12 @@ of:278
 of	was:111
 of	was	song:62
 of	was	and:69
-of	was	my:75
 of	was	to:75
 of	was	to	the:60
+of	was	my:75
 of	was	this:78
 of	was	this	the:60
 of	was	the:83
-of	and:139
-of	and	song:76
-of	and	song	this:63
-of	and	this:88
-of	and	this	to:60
-of	and	this	my:62
-of	and	this	the:62
-of	and	to:93
-of	and	to	my:66
-of	and	to	the:68
-of	and	the:96
-of	and	the	my:62
-of	and	my:97
 of	song:139
 of	song	to:79
 of	song	to	this:69
@@ -422,6 +409,19 @@ of	song	the	this:67
 of	song	my:95
 of	song	my	this:80
 of	song	this:114
+of	and:139
+of	and	song:76
+of	and	song	this:63
+of	and	this:88
+of	and	this	to:60
+of	and	this	the:62
+of	and	this	my:62
+of	and	to:93
+of	and	to	my:66
+of	and	to	the:68
+of	and	the:96
+of	and	the	my:62
+of	and	my:97
 of	to:148
 of	to	this:98
 of	to	this	my:70
