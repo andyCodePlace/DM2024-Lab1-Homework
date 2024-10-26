@@ -20,8 +20,8 @@ brings	memories	back:74
 brings	back:91
 with:107
 with	my:70
-with	the:71
 with	this:71
+with	the:71
 old:108
 that:113
 that	to:72
@@ -31,8 +31,8 @@ time	this:73
 time	the:79
 remember:121
 remember	song:72
-remember	was:73
 remember	the:73
+remember	was:73
 remember	this:82
 love:124
 love	song:70
@@ -61,9 +61,9 @@ years	my:86
 years	this:92
 so:149
 so	was:72
+so	the:77
 so	song:77
 so	and:77
-so	the:77
 so	my:78
 so	to:94
 so	this:98
@@ -166,14 +166,14 @@ in	of	my:79
 in	of	the:90
 in	was:136
 in	was	to:83
-in	was	and:87
 in	was	song:87
 in	was	song	this:81
+in	was	and:87
 in	was	my:92
 in	was	my	this:70
+in	was	the:103
 in	was	this:103
 in	was	this	the:81
-in	was	the:103
 in	song:138
 in	song	to:84
 in	song	to	this:75
@@ -255,22 +255,22 @@ me	this	my:116
 me	my:168
 of:278
 of	was:111
-of	was	to:75
 of	was	my:75
+of	was	to:75
 of	was	this:78
 of	was	the:83
-of	song:139
-of	song	to:79
-of	song	the:85
-of	song	my:95
-of	song	my	this:80
-of	song	this:114
 of	and:139
 of	and	song:76
 of	and	this:88
 of	and	to:93
 of	and	the:96
 of	and	my:97
+of	song:139
+of	song	to:79
+of	song	the:85
+of	song	my:95
+of	song	my	this:80
+of	song	this:114
 of	to:148
 of	to	this:98
 of	to	this	my:70

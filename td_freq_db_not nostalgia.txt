@@ -39,8 +39,8 @@ my	this:92
 that:171
 that	is:72
 that	this:77
-that	and:82
 that	to:82
+that	and:82
 that	the:109
 it:195
 it	is:72

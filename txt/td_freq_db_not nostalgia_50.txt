@@ -48,14 +48,14 @@ have	this:59
 have	the:66
 one:104
 one	and:51
-one	the:74
 one	of:74
 one	of	the:56
+one	the:74
 so:116
 so	song:51
 so	this:60
-so	the:63
 so	and:63
+so	the:63
 was:121
 was	and:58
 was	this:60
@@ -80,8 +80,8 @@ love	song:65
 love	the:67
 love	this:72
 you:156
-you	is:50
 you	song:50
+you	is:50
 you	of:55
 you	to:67
 you	and:73
@@ -93,9 +93,9 @@ my	of:60
 my	song:60
 my	song	this:51
 my	to:66
+my	the:80
 my	and:80
 my	and	the:50
-my	the:80
 my	this:92
 that:171
 that	song:54
@@ -125,9 +125,9 @@ it	and	this:57
 it	to:95
 it	to	this:57
 it	to	the:59
+it	the:108
 it	this:108
 it	this	the:54
-it	the:108
 in:204
 in	song:65
 in	song	this:53

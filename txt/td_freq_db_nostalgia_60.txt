@@ -33,8 +33,8 @@ brings	memories:83
 brings	memories	back:74
 brings	back:91
 with:107
-with	and:60
 with	in:60
+with	and:60
 with	to:65
 with	my:70
 with	this:71
@@ -63,8 +63,8 @@ remember	my:67
 remember	to:68
 remember	song:72
 remember	song	this:61
-remember	was:73
 remember	the:73
+remember	was:73
 remember	this:82
 love:124
 love	of:60
@@ -96,22 +96,22 @@ on	this:86
 on	this	the:62
 on	the:94
 years:136
-years	in:61
 years	it:61
+years	in:61
 years	song:74
 years	song	this:69
 years	and:75
-years	the:77
 years	to:77
 years	to	this:60
+years	the:77
 years	was:78
 years	my:86
 years	this:92
 so:149
 so	was:72
-so	the:77
 so	song:77
 so	song	this:67
+so	the:77
 so	and:77
 so	my:78
 so	to:94
@@ -267,15 +267,15 @@ in	was	to:83
 in	was	to	my:65
 in	was	to	this:67
 in	was	to	the:69
+in	was	and:87
+in	was	and	my:60
+in	was	and	the:69
+in	was	and	this:69
 in	was	song:87
 in	was	song	my:61
 in	was	song	the:66
 in	was	song	the	this:63
 in	was	song	this:81
-in	was	and:87
-in	was	and	my:60
-in	was	and	this:69
-in	was	and	the:69
 in	was	my:92
 in	was	my	the:67
 in	was	my	this:70
@@ -344,8 +344,8 @@ back	the	my:65
 back	the	this:75
 back	the	to:75
 back	my:124
-back	my	to:78
 back	my	this:78
+back	my	to:78
 back	to:125
 back	to	this:77
 back	this:134
@@ -414,8 +414,8 @@ of	and	song:76
 of	and	song	this:63
 of	and	this:88
 of	and	this	to:60
-of	and	this	the:62
 of	and	this	my:62
+of	and	this	the:62
 of	and	to:93
 of	and	to	my:66
 of	and	to	the:68
@@ -473,12 +473,12 @@ was	song	the	this:89
 was	song	my:106
 was	song	my	this:97
 was	song	this:149
-was	my:171
-was	my	this:129
 was	the:171
 was	the	my:103
 was	the	my	this:80
 was	the	this:122
+was	my:171
+was	my	this:129
 was	this:201
 and:309
 and	song:169

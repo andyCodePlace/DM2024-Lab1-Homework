@@ -129,8 +129,8 @@ he	was:33
 he	and:38
 he	the:41
 beautiful:78
-beautiful	to:31
 beautiful	of:31
+beautiful	to:31
 beautiful	this:33
 beautiful	the:39
 beautiful	and:39
@@ -150,8 +150,8 @@ what:82
 what	song:30
 what	this:32
 what	is:32
-what	of:33
 what	to:33
+what	of:33
 what	and:43
 what	the:46
 me:83
@@ -195,8 +195,8 @@ all	the:60
 not:87
 not	it:33
 not	and:35
-not	to:36
 not	is:36
+not	to:36
 not	this:40
 not	the:48
 with:96
@@ -376,17 +376,17 @@ you	that:45
 you	it:45
 you	in:48
 you	in	the:35
-you	song:50
-you	song	this:38
 you	is:50
 you	is	this:30
 you	is	the:33
+you	song:50
+you	song	this:38
 you	of:55
 you	of	this:31
 you	of	the:40
 you	to:67
-you	to	the:37
 you	to	and:37
+you	to	the:37
 you	to	this:39
 you	and:73
 you	and	this:40
@@ -416,11 +416,11 @@ my	to:66
 my	to	the:33
 my	to	this:39
 my	to	and:41
+my	the:80
+my	the	this:40
 my	and:80
 my	and	this:48
 my	and	the:50
-my	the:80
-my	the	this:40
 my	this:92
 that:171
 that	song:54
@@ -448,10 +448,10 @@ that	is	this:38
 that	is	and:41
 that	is	the:50
 that	this:77
-that	this	and:43
-that	this	and	the:31
 that	this	to:43
 that	this	to	the:31
+that	this	and:43
+that	this	and	the:31
 that	this	the:55
 that	and:82
 that	and	the:55
@@ -505,9 +505,9 @@ in	song	the	this:35
 in	song	this:53
 in	is:69
 in	is	to:30
+in	is	and:34
 in	is	of:34
 in	is	of	the:32
-in	is	and:34
 in	is	this:40
 in	is	this	the:31
 in	is	the:53

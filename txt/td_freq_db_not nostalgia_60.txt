@@ -1,3 +1,9 @@
+from:60
+they:61
+as:61
+her:63
+will:64
+when:68
 songs:71
 time:72
 just:77
@@ -11,46 +17,73 @@ on:84
 can:85
 great:85
 all:87
+all	the:60
 not:87
 with:96
+with	the:65
 like:98
+like	this:60
 but:101
+but	the:67
 have:104
+have	the:66
 one:104
-one	the:74
 one	of:74
+one	the:74
 so:116
+so	this:60
+so	and:63
+so	the:63
 was:121
+was	this:60
 was	the:73
 for:122
+for	this:62
 for	the:83
 music:123
+music	this:63
+music	and:65
 music	the:73
 love:131
+love	and:64
+love	song:65
+love	the:67
 love	this:72
 you:156
+you	to:67
 you	and:73
 you	this:76
 you	the:81
 my:162
+my	song:60
+my	of:60
+my	to:66
 my	the:80
 my	and:80
 my	this:92
 that:171
+that	of:61
+that	in:63
 that	is:72
 that	this:77
-that	to:82
 that	and:82
+that	to:82
 that	the:109
 it:195
+it	in:64
+it	of:68
 it	is:72
 it	song:86
+it	song	this:67
 it	and:94
 it	to:95
 it	this:108
 it	the:108
 in:204
+in	song:65
+in	is:69
 in	to:82
+in	to	the:63
 in	of:83
 in	of	the:74
 in	and:97
@@ -61,13 +94,18 @@ in	the:149
 is:216
 is	song:76
 is	of:78
+is	of	the:62
 is	to:81
 is	and:110
+is	and	this:61
+is	and	the:65
 is	this:126
 is	this	the:74
 is	the:130
 song:251
 song	of:89
+song	of	the:60
+song	of	this:68
 song	to:92
 song	to	this:75
 song	and:106

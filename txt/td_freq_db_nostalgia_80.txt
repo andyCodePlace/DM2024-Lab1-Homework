@@ -92,13 +92,19 @@ in	of:107
 in	of	the:90
 in	was:136
 in	was	to:83
+in	was	and:87
 in	was	song:87
 in	was	song	this:81
-in	was	and:87
 in	was	my:92
 in	was	the:103
 in	was	this:103
 in	was	this	the:81
+in	and:138
+in	and	song:82
+in	and	my:89
+in	and	to:92
+in	and	this:97
+in	and	the:112
 in	song:138
 in	song	to:84
 in	song	my:94
@@ -106,12 +112,6 @@ in	song	my	this:80
 in	song	the:103
 in	song	the	this:89
 in	song	this:117
-in	and:138
-in	and	song:82
-in	and	my:89
-in	and	to:92
-in	and	this:97
-in	and	the:112
 in	to:148
 in	to	my:107
 in	to	my	the:82
@@ -159,16 +159,16 @@ me	my:168
 of:278
 of	was:111
 of	was	the:83
-of	and:139
-of	and	this:88
-of	and	to:93
-of	and	the:96
-of	and	my:97
 of	song:139
 of	song	the:85
 of	song	my:95
 of	song	my	this:80
 of	song	this:114
+of	and:139
+of	and	this:88
+of	and	to:93
+of	and	the:96
+of	and	my:97
 of	to:148
 of	to	this:98
 of	to	the:106
